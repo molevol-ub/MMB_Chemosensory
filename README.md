@@ -10,10 +10,15 @@ Gene families, groups of genes that share common ancestry and are often function
 
 
 1 - Gene family annotation
+
 2 - Gene annotation evaluation
+
 3 - Identifying gene clusters
+
 4 - Multiple sequence alignment
+
 5 - Phylogenetic analyses
+
 6 - Genetic and physical distances
 
 
