@@ -1,0 +1,25 @@
+Total sequences           1690
+Total bases               413956173
+Min sequence length       2679
+Max sequence length       30501469
+Average sequence length   244944.48
+Median sequence length    33022.50
+N25 length                20442279
+N50 length                13111170
+N75 length                542976
+N90 length                75181
+N95 length                34139
+Contig N50 length         1041028
+L50 length                11
+L75 length                68
+L90 length                381
+L95 length                814
+As                        31.83 %
+Ts                        31.84 %
+Gs                        18.18 %
+Cs                        18.15 %
+(A + T)s                  63.67 %
+(G + C)s                  36.33 %
+Ns                        0.00 %
+Seqs longer than 1000pb   1689
+Seqs shorter than 201pb   0

@@ -1,0 +1,10 @@
+Files containing the GRs from:
+
+- S. invicta complete GRs annotated in this protocol: GR_genomic_and_annotated_genes_GR_complete.pep.fasta
+- D. melanogaster: GRs_Dmel.fasta
+- A. mellifera: GRs_Amel.fasta
+
+The sequences are concatenated in a single file to do the multiple sequence alignment
+"cat GR_genomic_and_annotated_genes_GR_complete.pep.fasta GRs_Amel.fasta GRs_Dmel.fasta > GRs_allsp.fasta"
+
+- GRs_allsp.fasta will contain the GR sequences in the three species
