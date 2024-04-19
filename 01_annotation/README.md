@@ -1,5 +1,3 @@
-#
-
 #### Files for gene annotation
 
 
